@@ -1,9 +1,10 @@
 ---
 title: Welcome to Quartz
 ---
+[[Tasks]]
 [[App architecture]]
-
 [[App design]]
+
 
 # Heading 1
 This is a blank Quartz installation.
