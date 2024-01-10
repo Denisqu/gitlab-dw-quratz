@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴Документация Gitlab-Downloader",
+    pageTitle: "🪴gitlab downloader docs",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

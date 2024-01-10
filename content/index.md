@@ -1,5 +1,5 @@
 ---
-title: Документация.
+title: Главная страница
 ---
 [[Tasks]]
 [[App architecture]]
